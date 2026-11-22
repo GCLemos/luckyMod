@@ -1,0 +1,10 @@
+{
+  "lucky.bark": {
+    "category": "neutral",
+    "sounds": ["lucky/bark1", "lucky/bark2", "lucky/bark3", "lucky/bark4"]
+  },
+  "lucky.bark_angry": {
+    "category": "hostile",
+    "sounds": ["lucky/bark_angry1", "lucky/bark_angry2", "lucky/bark_angry3", "lucky/bark_angry4"]
+  }
+}

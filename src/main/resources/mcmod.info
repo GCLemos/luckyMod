@@ -1,0 +1,12 @@
+[
+{
+  "modid": "luckymod",
+  "name": "Lucky",
+  "description": "Lucky, a little shaggy terrier companion. Tamed on arrival and (by default) immortal. Pet it, sneak-click to sit, trim it with shears.",
+  "version": "${modVersion}",
+  "mcversion": "${minecraftVersion}",
+  "authorList": [],
+  "credits": "Models and coat adapted from the Better Dogs resource pack by MrBlueYeti",
+  "dependencies": []
+}
+]
